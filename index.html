@@ -26,17 +26,20 @@
 
   <h2>Evaluation</h2>
   <p>Mean IoU from a selection of classes. The measurements are from 192 sequences with a confidence</br>
-    interval of 95%. Some critical classes, like vehicles and pedestrians, are barely represented.</br>
-    This might be due to the fact that they are small by size and seldom occur in the training set.</br>
-    The mean IoU is still strong since there are a few dominating classes which are predicted very well.<p>
+    interval of 95%. Some critical classes, like vehicles and pedestrians, are barely represented.This</br>
+    might be due to the fact that they are small by size and seldom occur in the training set. The mean</br>
+    IoU is still strong since there are a few dominating classes which are predicted very well.<p>
   <IMG SRC="img/iou_data.png">
-    <p>The thought behind this plot/metric is to investigate how far into the future it is convenient
-      (useful) to predict what will happen. As expected, the mean IoU decreases over time.
-  <h2> What next?</h2>
-  <p> Could it be an idea to evaluate main events of the predictions, rather than comparing individual frames?</br>
-    If so - how?</br></br>
-    Ideas # Classify events:</br>
-    right turn | left turn | intersection | pedestrian crossing
+    <p>The thought behind this plot/metric is to investigate how far into the future it is convenient</br>
+      (useful) to predict what will happen. As expected, the mean IoU decreases over time, meaning early</br>
+      predictions are more accurate.
+  <h2>What next?</h2>
+  <p>-Should I investigate to what extent the number of conditional frames aids the predictions?</br>
+    -The model completely ignores pedestrians. What might help?</br>
+            image size | train end-to-end | more pedestrians in the training data</br>
+  <p>-Could it be an idea to evaluate main events of the predictions, rather than comparing individual frames?</br>
+    If so, how? Ideas -> Classify events:</br>
+            right turn | left turn | intersection | pedestrian crossing
 
 </BODY>
 </HTML>
