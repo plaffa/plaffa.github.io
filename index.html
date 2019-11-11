@@ -8,7 +8,7 @@
 <IMG SRC="img/indicator.png">
 
 <h2>Samples</h2>
-<p>Conditioned on 10 initial frames.<p>
+<p>Conditioned on 10 initial frames. Image dimensions are 3x64x64<p>
 
 <BODY>
   <IMG SRC="gifs/sequence_0.gif">
@@ -25,10 +25,18 @@
   </br>
 
   <h2>Evaluation</h2>
-  <p>Mean IoU of a selection of classes. The measurements are from 192 sequences with a confidence interval of 95%.
-    Some critical classes, like vehicles and pedestrians, are barely represented. This might be due to the fact that they are small by size and
-    seldom occur in the training set.<p>
+  <p>Mean IoU from a selection of classes. The measurements are from 192 sequences with a confidence</br>
+    interval of 95%. Some critical classes, like vehicles and pedestrians, are barely represented.</br>
+    This might be due to the fact that they are small by size and seldom occur in the training set.</br>
+    The mean IoU is still strong since there are a few dominating classes which are predicted very well.<p>
   <IMG SRC="img/iou_data.png">
+    <p>The thought behind this plot/metric is to investigate how far into the future it is convenient
+      (useful) to predict what will happen. As expected, the mean IoU decreases over time.
+  <h2> What next?</h2>
+  <p> Could it be an idea to evaluate main events of the predictions, rather than comparing individual frames?</br>
+    If so - how?</br></br>
+    Ideas # Classify events:</br>
+    right turn | left turn | intersection | pedestrian crossing
 
 </BODY>
 </HTML>
