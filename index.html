@@ -26,9 +26,10 @@
 
   <h2>Evaluation</h2>
   <p>Mean IoU from a selection of classes. The measurements are from 192 sequences with a confidence</br>
-    interval of 95%. Some critical classes, like vehicles and pedestrians, are barely represented.This</br>
-    might be due to the fact that they are small by size and seldom occur in the training set. The mean</br>
-    IoU is still strong since there are a few dominating classes which are predicted very well.<p>
+    interval of 95%. Some critical classes, like vehicles and pedestrians, are barely represented. This</br>
+    might be due to the fact that they seldom occur in the training set, and when they do they usually</br>
+    contain only a few pixels. The mean IoU over all classes is still strong since there are a few dominating</br>
+    classes which are predicted very well.<p>
   <IMG SRC="img/iou_data.png">
     <p>The thought behind this plot/metric is to investigate how far into the future it is convenient</br>
       (useful) to predict what will happen. As expected, the mean IoU decreases over time, meaning early</br>
