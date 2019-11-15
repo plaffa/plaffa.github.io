@@ -24,24 +24,56 @@
   <IMG SRC="gifs/sequence_8.gif">
   </br>
 
-  <h2>Evaluation</h2>
-  <p>Mean IoU from a selection of classes. The measurements are from 192 sequences with a confidence</br>
+  <h2>11.11.2019 Evaluation</h2>
+  <p>
+    Mean IoU from a selection of classes. The measurements are from 192 sequences with a confidence</br>
     interval of 95%. Some critical classes, like vehicles and pedestrians, are barely represented. This</br>
     might be due to the fact that they seldom occur in the training set, and when they do they usually</br>
     contain only a few pixels. The mean IoU over all classes is still strong since there are a few dominating</br>
-    classes which are predicted very well.<p>
+    classes which are predicted very well.
+  </p>
   <IMG SRC="img/iou_data.png">
-    <p>The thought behind this plot/metric is to investigate how far into the future it is convenient</br>
+    <p>
+      The thought behind this plot/metric is to investigate how far into the future it is convenient</br>
       (useful) to predict what will happen. As expected, the mean IoU decreases over time, meaning early</br>
       predictions are more accurate.
-  <h2>What next?</h2>
-  <p>-Should I investigate to what extent the number of conditional frames aids the predictions?</br></br>
+    </p>
+
+  <h2>13.11.2019 What next?</h2>
+  <p>
+    -Should I investigate to what extent the number of conditional frames aids the predictions?</br></br>
     -The model completely ignores pedestrians. What might help?</br>
     &emsp;&emsp;&emsp;increase image size | train end-to-end | add more pedestrians in the training data</br></br>
     -Could it be an idea to evaluate main events of the predictions, rather than comparing individual frames?</br>
     If so, how? Ideas -> Classify events:</br>
     &emsp;&emsp;&emsp;right turn | left turn | intersection | pedestrian crossing</br></br>
-    <p>
+  </p>
 
+
+  <h2>15.11.2019 Update</h2>
+  <p>
+    Currently working on getting the same to work on larger images (128x128). VAE reconstructions seem to better</br>
+    model pedestrians and other small objects. I also tried swapping LSTM cells with GRUs, but this worsened the</br>
+    results. Maybe due to the long sequence lengths, and small gradients?</br></br>
+
+    Prediction evaluation of main events based on crowdsourcing seems like a suitable option. Though, wait with</br>
+    planning this until the RGB model is implemented and verified.</br></br>
+
+    I should find a way to compare my results to that of <a href="https://arxiv.org/abs/1703.07684">Luc et. al (2017)</a>. My predictions both short term and</br>
+    long term seem to be more accurate. Long term predictions in the paper actually appear like messy blends of blobs,</br>
+    rather than actual predictions. My predictions, however, make sure that structural integrity of objects are retained.</br>
+    Comparing with the results of the paper would either mean to somehow get hold of the annotated <a href="https://www.cityscapes-dataset.com/">Cityscapes</a> dataset</br>
+    and reproduce their results, or training their model on my data from CARLA.</br></br>
+
+    <i>Predicting Deeper into the Future of Semantic Segmentation</i> <a href="https://github.com/facebookresearch/SegmPred">Implementation on Github</a>.
+  </p>
+
+
+  <h2>More about the process</h2>
+  <p>
+    <a href="https://docs.google.com/document/d/19_Y2DlCs2vWuI22xg-mo3rGZnUE2KNIqzgJBAneiWR0/edit?usp=sharing">Veiledningsreferater</a>
+  </p>
 </BODY>
+
+
 </HTML>
