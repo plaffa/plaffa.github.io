@@ -11,17 +11,17 @@
 <p>Conditioned on 10 initial frames. Image dimensions are 3x64x64<p>
 
 <BODY>
-  <IMG SRC="gifs/sequence_0.gif">
-  <IMG SRC="gifs/sequence_1.gif">
-  <IMG SRC="gifs/sequence_2.gif">
+  <IMG SRC="gifs/seg/sequence_0.gif">
+  <IMG SRC="gifs/seg/sequence_1.gif">
+  <IMG SRC="gifs/seg/sequence_2.gif">
   </br>
-  <IMG SRC="gifs/sequence_3.gif">
-  <IMG SRC="gifs/sequence_4.gif">
-  <IMG SRC="gifs/sequence_5.gif">
+  <IMG SRC="gifs/seg/sequence_3.gif">
+  <IMG SRC="gifs/seg/sequence_4.gif">
+  <IMG SRC="gifs/seg/sequence_5.gif">
   </br>
-  <IMG SRC="gifs/sequence_6.gif">
-  <IMG SRC="gifs/sequence_7.gif">
-  <IMG SRC="gifs/sequence_8.gif">
+  <IMG SRC="gifs/seg/sequence_6.gif">
+  <IMG SRC="gifs/seg/sequence_7.gif">
+  <IMG SRC="gifs/seg/sequence_8.gif">
   </br>
 
   <h2>11.11.2019 Evaluation</h2>
@@ -71,7 +71,7 @@
 
 
 
-  <h2> 19.11.2019 Update</h2>
+  <h2>19.11.2019 Update (scratching this for now)</h2>
   <p>
     I tried generating some predictions with image size 128x128, but they were very inaccurate, nearly all frames</br>
     were similar (little movement among objects). However, the average IoU was still high, which basically just confirms</br>
@@ -81,14 +81,37 @@
     space is of size 4x4, and the decoded image is 128x128 (1024x compression), and it seems the decoder ignored the latent</br>
     codes altogether. I propose a new VAE setup that utilizes the latent codes through three steps of decoding, and early</br>
     experiments with this setup yields promising results. It makes sense that this can work, since the decoder is not allowed</br>
-    to forget about the latent codes.
+    to forget about the latent codes. The encoding can be seen as a single step, but I leave it as is for now.
   </p>
-  <IMG SRC="img/3_step_vqvae.png" height="600" width="450">
+  <IMG SRC="img/3_step_vqvae.png" height="300" width="225">
 
-    <h2>More about the process</h2>
+  <h2>26.11.2019 Update</h2>
+  <p>
+    Did a quick traning and sampling of RGB sequences. The image reconstruction is not exactly great, but the training set </br>
+    (which corresponds to the one used for segmentation) is quite small. I believe the RGB model variant might need more training</br>
+    examples in order to better reconstruct the details.</br></br>
+    These samples are also conditioned on 10 initial frames. Image dimensions are 3x64x64
     <p>
-      <a href="https://docs.google.com/document/d/19_Y2DlCs2vWuI22xg-mo3rGZnUE2KNIqzgJBAneiWR0/edit?usp=sharing">Veiledningsreferater</a>
-    </p>
+
+    <BODY>
+      <IMG SRC="gifs/rgb/sequence_0.gif">
+      <IMG SRC="gifs/rgb/sequence_1.gif">
+      <IMG SRC="gifs/rgb/sequence_2.gif">
+      </br>
+      <IMG SRC="gifs/rgb/sequence_3.gif">
+      <IMG SRC="gifs/rgb/sequence_4.gif">
+      <IMG SRC="gifs/rgb/sequence_5.gif">
+      </br>
+      <IMG SRC="gifs/rgb/sequence_6.gif">
+      <IMG SRC="gifs/rgb/sequence_7.gif">
+      <IMG SRC="gifs/rgb/sequence_8.gif">
+      </br>
+    </BODY>
+
+  <h2>More about the process</h2>
+  <p>
+    <a href="https://docs.google.com/document/d/19_Y2DlCs2vWuI22xg-mo3rGZnUE2KNIqzgJBAneiWR0/edit?usp=sharing">Veiledningsreferater</a>
+  </p>
 
 </BODY>
 
