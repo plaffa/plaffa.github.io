@@ -1,0 +1,85 @@
+9
+124
+3
+133
+70
+94
+12
+24
+171
+55
+126
+172
+37
+
+46
+156
+164
+11
+77
+157
+166
+28
+8
+2
+81
+32
+47
+
+-------------------------
+Undersøkelse 2 V1
+
+SEG		RGB
+	
+GT	PRED	GT	PRED
+9	46	157	24		
+124	156	77	94
+3	164	11	70
+133	11	164	55
+70	77	28	3
+94	157	166	171
+12	166	81	126
+24	28	46	124
+171	8	8	12
+55	2	2	9
+126	81<	47	37
+172	32	32<	133<
+37<	47	156	172
+
+ORDER:	['GT', 'GT', 'PD', 'GT', 'PD', 'PD', 'GT', 'PD', 'PD', 'GT', 'PD', 'GT', 'GT', 'PD', 'GT', 'GT', 'GT', 'GT', 'GT', 'PD', 'PD', 'GT', 'PD', 'GT', 'PD', 'PD', 'PD', 'PD', 'GT', 'GT', 'GT', 'PD', 'GT', 'PD', 'PD', 'PD', 'PD', 'PD', 'PD'<, 'PD', 'PD', 'GT', 'PD', 'GT', 'GT', 'PD', 'GT', 'GT', 'GT', 'GT', 'PD'<, 'GT']
+
+-------------------------
+Undersøkelse 2 V2
+
+SEG		RGB
+	
+GT	PRED	GT	PRED
+46	9	24	157	
+156	124	94	77
+164	3	70	11
+11	133	55	164
+77	70	3	28
+157	94	171	166
+166	12	126	81
+28	24	124	46
+8	171	12	8
+2	55	9	2
+81	126	37	47
+32	172	133	32
+47	37	172	156
+
+ORDER: ['GT', 'PD', 'PD', 'GT', 'PD', 'GT', 'PD', 'GT', 'GT', 'GT', 'PD', 'GT', 'PD', 'GT', 'GT', 'PD', 'PD', 'PD', 'PD', 'PD', 'PD', 'GT', 'GT', 'PD', 'PD', 'GT', 'PD', 'GT', 'GT', 'PD', 'PD', 'PD', 'GT', 'GT', 'GT', 'PD', 'PD', 'PD', 'PD', 'GT', 'GT', 'PD', 'PD', 'GT', 'GT', 'GT', 'GT', 'PD', 'GT', 'GT', 'PD', 'GT']
+
+
+Hei!
+
+I forbindelse med masteroppgaven min gjør jeg en spørreundersøkelse der deltakere kategoriserer korte videosnutter fra et simulert trafikkmiljø. Undersøkelsen tar omtrent 20 minutter, og jeg håper du vil hjelpe meg ved å delta.
+Klikk på linken for å åpne undersøkelsen: https://nettskjema.no/a/136762
+
+Hvis du ønsker å gjøre mer blir jeg veldig glad om du gjør en undersøkelse til (samme format, bare flere videoer), men jeg har stor forståelse for om du kun ønsker å gjøre en av dem.
+Den kan du finne her: https://nettskjema.no/a/140619
+
+Del gjerne med venner eller bekjente! På forhånd takk!
+
+
+
