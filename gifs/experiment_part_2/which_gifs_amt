@@ -24,7 +24,6 @@
 70
 71
 73
-----------
 75
 77
 78
@@ -54,219 +53,218 @@
 ---
 
 Survey 2.1
-0 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_48.gif
-1 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_3.gif
-2 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_47.gif
-3 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_28.gif
-4 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_22.gif
-5 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_45.gif
-6 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_1.gif
-7 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_31.gif
-8 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_13.gif
-9 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_40.gif
-10 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_21.gif
-11 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_12.gif
-12 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_25.gif
-13 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_14.gif
-14 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_45.gif
-15 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_42.gif
-16 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_9.gif
-17 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_7.gif
-18 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_34.gif
-19 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_20.gif
-20 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_43.gif
-21 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_4.gif
-22 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_41.gif
-23 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_16.gif
-24 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_48.gif
-25 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_24.gif
-26 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_27.gif
-27 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_0.gif
-28 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_30.gif
-29 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_35.gif
-30 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_49.gif
-31 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_7.gif
-32 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_48.gif
-33 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_24.gif
-34 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_40.gif
-35 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_51.gif
-36 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_47.gif
-37 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_17.gif
-38 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_28.gif
-39 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_16.gif
-40 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_23.gif
-41 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_18.gif
-42 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_47.gif
-43 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_20.gif
-44 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_43.gif
-45 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_31.gif
-46 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_21.gif
-47 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_6.gif
-48 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_23.gif
-49 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_12.gif
-50 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_16.gif
-51 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_6.gif
+0 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_75.gif |
+1 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_150.gif |
+2 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_134.gif |
+3 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_20.gif |
+4 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_116.gif |
+5 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_75.gif |
+6 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_21.gif |
+7 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_20.gif |
+8 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_95.gif |
+9 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_177.gif |
+10 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_28.gif |
+11 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_62.gif |
+12 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_62.gif |
+13 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_130.gif |
+14 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_125.gif |
+15 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_127.gif |
+16 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_54.gif |
+17 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_30.gif |
+18 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_60.gif |	
+19 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_28.gif |
+20 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_18.gif |
+21 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_161.gif |
+22 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_169.gif |
+23 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_81.gif |
+24 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_6.gif |
+25 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_180.gif |
+26 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_48.gif |
+27 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_160.gif |
+28 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_38.gif |
+29 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_31.gif |
+30 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_38.gif |
+31 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_177.gif |
+32 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_71.gif |
+33 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_73.gif |
+34 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_62.gif |
+35 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_120.gif |
+36 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_52.gif |
+37 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_19.gif |
+38 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_18.gif |
+39 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_159.gif |
+40 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_30.gif |
+41 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_125.gif |
+42 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_16.gif |
+43 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_142.gif |
+44 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_2.gif |
+45 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_114.gif |
+46 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_69.gif |
+47 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_120.gif |
+48 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_95.gif |
+49 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_159.gif |
+50 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_48.gif |
+51 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_57.gif |
 
 Survey 2.2
-0 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_16.gif
-1 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_2.gif
-2 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_45.gif
-3 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_26.gif
-4 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_13.gif
-5 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_51.gif
-6 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_2.gif
-7 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_33.gif
-8 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_8.gif
-9 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_5.gif
-10 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_6.gif
-11 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_36.gif
-12 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_33.gif
-13 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_36.gif
-14 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_46.gif
-15 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_45.gif
-16 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_41.gif
-17 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_47.gif
-18 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_11.gif
-19 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_22.gif
-20 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_18.gif
-21 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_26.gif
-22 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_1.gif
-23 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_49.gif
-24 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_29.gif
-25 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_46.gif
-26 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_29.gif
-27 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_4.gif
-28 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_50.gif
-29 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_13.gif
-30 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_17.gif
-31 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_10.gif
-32 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_26.gif
-33 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_49.gif
-34 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_34.gif
-35 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_29.gif
-36 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_34.gif
-37 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_25.gif
-38 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_15.gif
-39 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_51.gif
-40 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_44.gif
-41 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_31.gif
-42 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_15.gif
-43 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_1.gif
-44 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_25.gif
-45 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_49.gif
-46 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_38.gif
-47 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_19.gif
-48 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_11.gif
-49 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_27.gif
-50 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_46.gif
-51 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_35.gif
+0 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_21.gif |
+1 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_117.gif |
+2 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_15.gif |
+3 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_2.gif |
+4 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_150.gif |
+5 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_134.gif |
+6 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_150.gif |
+7 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_130.gif |
+8 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_78.gif |
+9 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_103.gif |
+10 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_116.gif |
+11 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_15.gif |
+12 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_31.gif |
+13 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_110.gif |
+14 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_45.gif |
+15 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_73.gif |
+16 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_169.gif |
+17 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_28.gif |
+18 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_166.gif |
+19 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_130.gif |
+20 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_127.gif |
+21 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_114.gif |
+22 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_95.gif |
+23 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_159.gif |
+24 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_38.gif |
+25 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_71.gif |
+26 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_18.gif |
+27 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_75.gif |
+28 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_48.gif |
+29 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_16.gif |
+30 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_159.gif |
+31 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_169.gif |
+32 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_70.gif |
+33 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_20.gif |
+34 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_45.gif |
+35 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_75.gif |
+36 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_114.gif |
+37 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_134.gif |
+38 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_70.gif |
+39 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_142.gif |
+40 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_78.gif |
+41 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_60.gif |
+42 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_103.gif |
+43 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_21.gif |
+44 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_120.gif |
+45 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_189.gif |
+46 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_60.gif |
+47 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_11.gif |
+48 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_174.gif |
+49 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_29.gif |
+50 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_134.gif |
+51 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_161.gif
 
 Survey 2.3
-0 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_2.gif
-1 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_5.gif
-2 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_37.gif
-3 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_20.gif
-4 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_35.gif
-5 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_30.gif
-6 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_1.gif
-7 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_4.gif
-8 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_39.gif
-9 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_8.gif
-10 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_7.gif
-11 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_28.gif
-12 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_10.gif
-13 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_8.gif
-14 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_11.gif
-15 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_42.gif
-16 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_39.gif
-17 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_51.gif
-18 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_8.gif
-19 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_2.gif
-20 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_39.gif
-21 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_43.gif
-22 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_44.gif
-23 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_24.gif
-24 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_50.gif
-25 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_36.gif
-26 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_36.gif
-27 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_27.gif
-28 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_3.gif
-29 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_15.gif
-30 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_32.gif
-31 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_27.gif
-32 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_9.gif
-33 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_28.gif
-34 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_29.gif
-35 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_50.gif
-36 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_41.gif
-37 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_14.gif
-38 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_22.gif
-39 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_9.gif
-40 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_50.gif
-41 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_5.gif
-42 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_7.gif
-43 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_17.gif
-44 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_41.gif
-45 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_13.gif
-46 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_26.gif
-47 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_39.gif
-48 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_33.gif
-49 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_3.gif
-50 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_31.gif
-51 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_37.gif
+0 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_30.gif |
+1 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_71.gif |
+2 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_116.gif |
+3 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_110.gif |
+4 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_161.gif |
+5 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_19.gif |
+6 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_56.gif |
+7 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_77.gif |
+8 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_180.gif |
+9 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_174.gif |
+10 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_15.gif |
+11 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_69.gif |
+12 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_103.gif |
+13 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_11.gif |
+14 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_28.gif |
+15 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_56.gif |
+16 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_120.gif |
+17 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_160.gif |
+18 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_160.gif |
+19 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_45.gif |
+20 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_52.gif |
+21 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_52.gif |
+22 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_110.gif |
+23 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_48.gif |
+24 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_81.gif |
+25 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_57.gif |
+26 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_57.gif |
+27 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_166.gif |
+28 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_54.gif |
+29 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_125.gif |
+30 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_18.gif |
+31 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_11.gif |
+32 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_71.gif |
+33 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_69.gif |
+34 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_77.gif |
+35 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_189.gif |
+36 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_29.gif |
+37 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_31.gif |
+38 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_180.gif |
+39 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_95.gif |
+40 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_114.gif |
+41 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_117.gif |
+42 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_52.gif |
+43 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_56.gif |
+44 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_160.gif |
+45 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_81.gif |
+46 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_2.gif |
+47 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_31.gif |
+48 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_177.gif |
+49 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_169.gif |
+50 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_117.gif |
+51 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_11.gif |
 
 Survey 2.4
-0 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_32.gif
-1 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_21.gif
-2 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_6.gif
-3 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_0.gif
-4 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_19.gif
-5 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_9.gif
-6 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_32.gif
-7 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_18.gif
-8 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_38.gif
-9 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_44.gif
-10 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_40.gif
-11 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_4.gif
-12 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_0.gif
-13 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_12.gif
-14 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_46.gif
-15 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_22.gif
-16 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_19.gif
-17 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_0.gif
-18 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_42.gif
-19 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_30.gif
-20 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_25.gif
-21 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_3.gif
-22 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_40.gif
-23 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_37.gif
-24 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_19.gif
-25 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_15.gif
-26 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_33.gif
-27 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_34.gif
-28 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_43.gif
-29 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_21.gif
-30 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_11.gif
-31 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_5.gif
-32 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_10.gif
-33 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_38.gif
-34 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_17.gif
-35 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_38.gif
-36 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_48.gif
-37 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_32.gif
-38 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_24.gif
-39 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_42.gif
-40 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_30.gif
-41 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_18.gif
-42 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_20.gif
-43 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_23.gif
-44 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_35.gif
-45 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_44.gif
-46 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_10.gif
-47 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_14.gif
-48 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_12.gif
-49 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_14.gif
-50 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_37.gif
-51 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_23.gif
-
+0 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_78.gif |
+1 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_2.gif |
+2 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_57.gif |
+3 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_116.gif |
+4 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_189.gif |
+5 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_174.gif |
+6 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_127.gif |
+7 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_77.gif |
+8 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_6.gif |
+9 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_19.gif |
+10 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_127.gif |
+11 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_38.gif |
+12 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_29.gif |
+13 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_78.gif |
+14 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_54.gif |
+15 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_130.gif |
+16 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_73.gif |
+17 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_6.gif |
+18 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_45.gif |
+19 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_117.gif |
+20 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_110.gif |
+21 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_54.gif |
+22 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_29.gif |
+23 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_189.gif |
+24 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_60.gif |
+25 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_73.gif |
+26 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_81.gif |
+27 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_161.gif |
+28 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_69.gif |
+29 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_150.gif |
+30 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_142.gif |
+31 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_166.gif |
+32 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_16.gif |
+33 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_177.gif |
+34 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_56.gif |
+35 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_142.gif |
+36 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_62.gif |
+37 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_166.gif |
+38 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_70.gif |
+39 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_174.gif |
+40 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_30.gif |
+41 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_70.gif |
+42 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_21.gif |
+43 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_16.gif |
+44 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_103.gif |
+45 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_6.gif |
+46 https://plaffa.github.io/gifs/experiment_part_2/seg/pred/video_77.gif |
+47 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_19.gif |
+48 https://plaffa.github.io/gifs/experiment_part_2/seg/gt/video_125.gif |
+49 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_180.gif |
+50 https://plaffa.github.io/gifs/experiment_part_2/rgb/gt/video_20.gif |
+51 https://plaffa.github.io/gifs/experiment_part_2/rgb/pred/video_15.gif |
 
