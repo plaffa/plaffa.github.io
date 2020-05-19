@@ -4,20 +4,24 @@
 
 <h1>What does the future look like?</h1>
 <p>Predicting semantic segmentation frames of traffic environments.</br>
-  The data is obtained using the <a href="http://carla.org">CARLA</a> simulator at 5 fps.<p>
-<IMG SRC="img/indicator.png">
+  The data is obtained using the <a href="http://carla.org">CARLA</a> simulator at 5 fps.</br>
+  Results below are from test/validation data. Conditioned on 10 initial frames. Image dimensions are 3x128x128.<p>
+ 
 
-<h2>Samples</h2>
-<p>Conditioned on 10 initial frames. Image dimensions are 3x64x64<p>
+<h2>RGB Samples</h2>
+
 
 <BODY>
+  <h2> Illustration of prediction by the model.</br>
   <IMG SRC="gifs/model_illustration/model_cropped.gif"></br>
   <IMG SRC="gifs/model_illustration/pred.gif"></br>
   </br></br>
+  <h1> RGB Samples - Ground truth (top) and prediction (bottom)
   <IMG SRC="gifs/seg/sequence_0.gif">
   <IMG SRC="gifs/seg/sequence_1.gif">
   <IMG SRC="gifs/seg/sequence_2.gif">
   </br>
+  <h1> Semantic Segmentation Samples - Ground truth (top) and prediction (bottom)  
   <IMG SRC="gifs/seg/sequence_3.gif">
   <IMG SRC="gifs/seg/sequence_4.gif">
   <IMG SRC="gifs/seg/sequence_5.gif">
