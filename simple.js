@@ -11,7 +11,7 @@
   //
   // Asynchronous download PDF
   //
-  const loadingTask = pdfjsLib.getDocument('/cv.pdf');
+  const loadingTask = pdfjsLib.getDocument('/popkorn_log.pdf');
   (async () => {
     const pdf = await loadingTask.promise;
     //
